@@ -1,6 +1,3 @@
-# Profile
-Micooo24 Profile
-
 <p align="right">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 </p>
