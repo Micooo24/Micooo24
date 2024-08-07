@@ -39,6 +39,4 @@ Micooo24 Profile
 <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="400">
 </p>
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
-</p>
+
