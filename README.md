@@ -1,62 +1,54 @@
-# Hey there! I'm Micoooo24 👋
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Developers!+👋;+I'm+Micoooo24!;" />
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Developers!+👋;+I'm+Micoooo24!;" />
-</p>
+# Hi there! 👋
 
 ## 🚀 About Me
 
-Passionate developer exploring the world of web technologies and programming. Currently diving deep into modern web development frameworks and continuously expanding my skill set.
-
-<p align="center">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="300">
-</p>
+I'm a passionate developer on an exciting journey through the world of web technologies and programming. My curiosity drives me to continuously learn and explore new frameworks, pushing the boundaries of what's possible in web development.
 
 ## 💻 Tech Stack
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-</p>
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-## 🌱 Currently Learning
+### Currently Exploring
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-</p>
+## 🌱 Learning Journey
 
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="300">
-</p>
-
-## 🤝 Connect with Me
-
-<p align="center">
-    <a href="https://www.facebook.com/micsrabs" target="_blank">
-        <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="50">
-    </a>
-    <a href="https://www.instagram.com/027_fl/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50">
-    </a>
-</p>
+I'm currently deep-diving into modern web development, focusing on:
+- Building responsive and interactive web applications
+- Mastering full-stack development techniques
+- Exploring advanced React and Node.js concepts
 
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Micoooo24&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Micoooo24&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Micoooo24&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Micoooo24&theme=dracula&hide_border=true" alt="GitHub Streak" width="48%">
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Micoooo24&theme=radical&no-frame=true&no-bg=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+## 🏆 Achievements
 
 <p align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Micoooo24&theme=dracula&no-frame=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </p>
+
+## 🤝 Let's Connect
+
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/micsrabs)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/027_fl/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Micoooo24)
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Micoooo24.Micoooo24" alt="Visitor Badge">
+</p>
+
+*Continuously learning, always growing* 🚀
