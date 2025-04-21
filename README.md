@@ -22,11 +22,11 @@
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/micsrabs)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/027_fl/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Micoooo24)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Micooo24)
 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Micoooo24.Micoooo24" alt="Visitor Badge">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Micoooo24.Micooo24" alt="Visitor Badge">
 </p>
 
